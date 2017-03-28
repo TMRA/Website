@@ -1,5 +1,5 @@
-# ToledoMobileRadioWebsite
-TMRAHamRadio Website
+# Toledo Mobile Radio W8HHF Public PHP-based Facing Website
+Notes
 
 This repo contains the PHP version of the <a href="http://www.tmrahamradio.org">Toledo Mobile Radio Association's</a> website, created by <a href="https://www.qrz.com/db/kj0eyt">KJ0EYT (Joe Thielen)</a> and modified by <a href="http://www.n8zak.com">N8ZAK</a> (Zachary Burns).  Changes were made and I needed a good spot to track changes and clean up some code for site re-design and migration.
 
